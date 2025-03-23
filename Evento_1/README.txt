@@ -1,5 +1,3 @@
-*************** PROJECT DETAILS *********************** 
----------------------------------------------------------
 PROJECT 8: Event Management System               	|
 ---------------------------------------------------------
 Promotion : CS26 					|
@@ -73,5 +71,3 @@ Group Students : BONKOUNGOU Djemilatou
    - progress.form, progress.java : Fichiers pour le chargement de la page.
 
    - resultSet.java : Fichier pour la gestion des résultats de la base de données.
-
--------------------------------------------------------- 
